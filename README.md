@@ -6,7 +6,7 @@
   <tr>
   <td width="30%">
 
-&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dz88ydxdcnnjeh7ux0mqveme8&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://open.spotify.com/user/dz88ydxdcnnjeh7ux0mqveme8)
+&nbsp; <br> [![Spotify](https://spotify-one-brown.vercel.app/api/spotify)](https://open.spotify.com/user/dz88ydxdcnnjeh7ux0mqveme8)
 
   </td>
   <td width="50%">
@@ -15,7 +15,7 @@
     </p>
     <p align="center">
       <a href="https://www.linkedin.com/in/ivan-nemyrovskiy-05b323224/">
-      <img src="https://img.shields.io/badge/linkedIn-inemyyrovsk-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
+      <img src="https://img.shields.io/badge/linkedIn-inemyrovsk-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
       </a>
     </p>
   </td>
