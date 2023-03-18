@@ -10,8 +10,9 @@
 
   </td>
   <td width="50%">
-    <p align="center">
+    <p align="center" width="50%">
     DevOps Engineer building innovative infrastructure for clients.
+    Always at the edge of technology.
     </p>
     <p align="center">
       <a href="https://www.linkedin.com/in/ivan-nemyrovskiy-05b323224/">
