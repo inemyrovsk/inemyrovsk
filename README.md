@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/99128310/226129496-c0f0179c-648c-41dc-abec-8866b537af5a.png)
 
 <!--
 **inemyrovsk/inemyrovsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
