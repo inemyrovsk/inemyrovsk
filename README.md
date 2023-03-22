@@ -6,7 +6,7 @@
   <tr>
   <td width="30%">
 
-&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dz88ydxdcnnjeh7ux0mqveme8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://swag.com/)
+&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dz88ydxdcnnjeh7ux0mqveme8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://open.spotify.com/)
 
   </td>
   <td width="50%">
