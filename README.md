@@ -4,10 +4,6 @@
 <!-- Modified from project here: https://github.com/ajmeese7/ajmeese7 -->
 <table width="100%">
   <tr>
-  <td width="30%">
-
-
-  </td>
   <td width="50%">
     <p align="center" width="50%">
     DevOps Engineer building innovative infrastructure for clients. Always at the cutting edge of technology.
